@@ -1,0 +1,2 @@
+# netherwartscript
+Nether Wart Script
